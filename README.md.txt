@@ -54,3 +54,15 @@ R:/
 - Mejora de pricing, cross‑sell/upsell y recomendadores.
 - Detección de nichos y oportunidades; reducción de churn.
 - Identificación de anomalías/comportamientos inusuales.
+
+
+
+ conclusiones del proyecto son:
+
+La variable área es la más influyente para predecir el precio de un inmueble, con una correlación alta y un coeficiente positivo significativo en el modelo de regresión lineal.
+
+El modelo de regresión lineal explica alrededor del 56% de la variabilidad del precio, pero presenta errores mayores en propiedades de alto valor, sugiriendo que otros factores no considerados también afectan el precio.
+
+El análisis de clustering con KMeans segmenta efectivamente las propiedades en dos grupos claramente diferenciados por tamaño, número de habitaciones y precio, lo cual es valioso para estrategias de mercado y toma de decisiones.
+
+La integración de técnicas supervisadas y no supervisadas en Business Analytics proporciona un enfoque robusto para la predicción y segmentación en el sector inmobiliario, facilitando la personalización y optimización de servicios basados en datos reales.
